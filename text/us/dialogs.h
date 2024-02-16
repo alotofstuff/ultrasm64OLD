@@ -1,5 +1,5 @@
 // Parameters: dialog enum ID, (unused), lines per box, left offset, width
-
+/*
 #ifdef VERSION_EU
 #define COMRADES "friends"
 #define PLASTERED "splattered"
